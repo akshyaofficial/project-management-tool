@@ -17,7 +17,5 @@
 - Basic auth; no email notifications.
 - Improvements: Add real-time updates.
 
-## Name: Akshya Kumar Panda
-
-## Contact: akshyaku.11@gmail.com/7978113022
-
+## Name: [Your Full Name]
+## Contact: [Your Email/Phone]

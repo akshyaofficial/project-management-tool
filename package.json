@@ -1,0 +1,37 @@
+{
+  "name": "project-management-tool",
+  "version": "1.0.0",
+  "description": "1. Install Node.js, PostgreSQL.\r 2. Run `npm install` in backend/ and frontend/.\r 3. Set up DB: Run Sequelize migrations.\r 4. Start backend: `npm start` in backend/.\r 5. Start frontend: `npm run dev` in frontend/.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/node": "^24.9.2",
+    "@types/react": "^19.2.2",
+    "axios": "^1.13.1",
+    "next": "^13.5.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshyaofficial/project-management-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/akshyaofficial/project-management-tool/issues"
+  },
+  "homepage": "https://github.com/akshyaofficial/project-management-tool#readme",
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18"
+  }
+}
